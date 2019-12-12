@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29609.76
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DutchTree", "DutchTree.csproj", "{1D1F8007-DE49-4640-ABC1-07C8E56DD946}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DutchTreat", "DutchTreat.csproj", "{1D1F8007-DE49-4640-ABC1-07C8E56DD946}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

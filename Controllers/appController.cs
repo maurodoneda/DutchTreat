@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DutchTree.Controllers
+namespace DutchTreat.Controllers
 {
     public class appController : Controller 
     {
