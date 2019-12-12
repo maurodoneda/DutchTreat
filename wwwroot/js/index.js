@@ -23,7 +23,7 @@
     var $popupForm = $(".popupForm");
 
     $loginToggle.on("click", function () {
-        $popupForm.toggle(300);
+        $popupForm.fadeToggle(500);
     });
 
 
