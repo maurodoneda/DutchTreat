@@ -21,7 +21,13 @@ namespace DutchTreat.Data
         {
             base.OnModelCreating(modelBuilder);
 
-            modelBuilder.Entity<Product>();
+            modelBuilder.Entity<Order>()
+                .HasData(new Order()
+                {
+                    Id = 1,
+                    OrderDate=DateTime.UtcNow,
+                    OrderNumber = "12345"
+                }); 
                 
         }
 
